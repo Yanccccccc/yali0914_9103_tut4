@@ -25,7 +25,7 @@
 ## Combine Artwork with Quicksand Effect
 
 ### Which aspect to incorporate
-The design is to take the presentation of quicksand and the interaction form where the user clicks in real-time to change the quicksand's direction into the design.
+The design is to take the presentation of quicksand and the interaction form where the user clicks in real-time to change the quicksand's direction into the design. The effect shows as follows.
 
 ### Presentation and interaction
 By presenting the artwork as a sand painting, the sand flows randomly at first, and the audience can make the sand flow in a specific direction and then reshape the artwork by clicking.
@@ -46,8 +46,9 @@ The particle system is primarily used, and the sample code is linked below. By s
 
 [particle system1](https://p5js.org/examples/simulate-particle-system.html)
 
+[particle system2](https://thecodingtrain.com/challenges/78-simple-particle-system)
 
-[particle system2](https://github.com/Vikram-Bhat/CodingChallengeContributions/blob/main/particlesystem.pde)
+[particle system3](https://github.com/Vikram-Bhat/CodingChallengeContributions/blob/main/particlesystem.pde)
 
 ### Further exploration
 It also needs more effort to simulate the quicksand by the particle system and shaders and enhance the performance.
