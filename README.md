@@ -35,8 +35,11 @@ It allows the audience to redraw the artwork immersively enhancing engagement an
 The particle system is primarily used, and the sample code is linked below. By setting the particles' physical properties and movement rules, the effect of quicksand can be simulated. By creating a particle object at the mouse's current position clicked, the draw function redraws each time, the object's position is updated and then the object is redrawn. Thus, the effect of the user interaction of redrawing the artwork in the sand painting way can be achieved. 
 
 ![particlesystem_code1](assets/codesample1.png)
+
 ![particlesystem_code2](assets/codesample2.png)
+
 [particle system1](https://p5js.org/examples/simulate-particle-system.html)
+
 [particle system2](https://github.com/Vikram-Bhat/CodingChallengeContributions/blob/main/particlesystem.pde)
 
 ### Further exploration
