@@ -16,6 +16,11 @@
 
 
 
+
+
+
+
+
 # Quiz 8
 ## Combine Artwork with Quicksand Effect
 
@@ -37,12 +42,9 @@ The particle system is primarily used, and the sample code is linked below. By s
 ![particlesystem_code1](assets/codesample1.png)
 
 
-
-
 ![particlesystem_code2](assets/codesample2.png)
 
 [particle system1](https://p5js.org/examples/simulate-particle-system.html)
-
 
 
 [particle system2](https://github.com/Vikram-Bhat/CodingChallengeContributions/blob/main/particlesystem.pde)
