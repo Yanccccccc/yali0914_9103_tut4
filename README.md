@@ -14,24 +14,31 @@
 
 ![the mona lisa](assets/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
-# Combine Artwork with Quicksand Effect
-## Which aspect to incorporate
+
+
+# Quiz 8
+## Combine Artwork with Quicksand Effect
+
+### Which aspect to incorporate
 The design is to take the presentation of quicksand and the interaction form where the user clicks in real-time to change the quicksand's direction into the design.
 
-## Presentation and interaction
+### Presentation and interaction
 By presenting the artwork as a sand painting, the sand flows randomly at first, and the audience can make the sand flow in a specific direction and then reshape the artwork by clicking.
 
-## Why Beneficial
+### Why Beneficial
 It allows the audience to redraw the artwork immersively enhancing engagement and joyment in appreciating artworks.
 
 ![quicksandexample1](assets/quicksand_example1.jpeg)
 ![quicksandexample2](assets/quicksand_example2.jpeg)
 
-## Main technique to help achieve the desired effect
+### Main technique to help achieve the desired effect
 The particle system is primarily used, and the sample code is linked below. By setting the particles' physical properties and movement rules, the effect of quicksand can be simulated. By creating a particle object at the mouse's current position clicked, the draw function redraws each time, the object's position is updated and then the object is redrawn. Thus, the effect of the user interaction of redrawing the artwork in the sand painting way can be achieved. 
 
-[particle system](https://p5js.org/examples/simulate-particle-system.html)
+![particlesystem_code1](assets/codesample1.png)
+![particlesystem_code2](assets/codesample2.png)
+[particle system1](https://p5js.org/examples/simulate-particle-system.html)
+[particle system2](https://github.com/Vikram-Bhat/CodingChallengeContributions/blob/main/particlesystem.pde)
 
-## Further exploration
+### Further exploration
 It also needs more effort to simulate the quicksand by the particle system and shaders and enhance the performance.
 
